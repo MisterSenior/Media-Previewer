@@ -1,0 +1,6 @@
+framework module Pods_Media_Previewer_Media_PreviewerUITests {
+  umbrella header "Pods-Media Previewer-Media PreviewerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
